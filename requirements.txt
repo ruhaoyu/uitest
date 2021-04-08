@@ -1,0 +1,9 @@
+winshell
+aircv
+win32gui
+pywin32
+pyautogui
+pyperclip
+PyQt5
+pillow
+opencv-python
